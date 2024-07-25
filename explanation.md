@@ -2,4 +2,4 @@
 
 - https://www.youtube.com/watch?v=X91jsJyZofw
 
-- 따라 만들기
+- 사용하고 있는 아이콘 https://fontawesome.com/
