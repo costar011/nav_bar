@@ -1,30 +1,43 @@
 body {
-    margin: 0;
+  margin: 0;
+  font-family: "Source Sans 3", sans-serif;
 }
 
 a {
-    text-decoration: none;
-    color: #fff;
+  text-decoration: none;
+  color: #fff;
 }
 
 .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background: #263343;
-    padding: 8px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #263343;
+  padding: 8px 12px;
 }
 
-
 .navbar__logo {
-    font-size: 24px;
-    color: #fff;
+  font-size: 24px;
+  color: #fff;
 }
 
 .navbar__logo i {
-    color: #d49466;
+  color: #d49466;
 }
 
 .navbar__menu {
-    display: flex;
+  display: flex;
+}
+.navbar__menu li {
+  padding: 8px 12px;
+}
+
+.navbar__iconbs {
+  list-style: none;
+  color: #fff;
+  display: flex;
+}
+
+.navbar__iconbs li {
+  padding: 8px 12px;
 }
