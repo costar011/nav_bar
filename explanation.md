@@ -1,4 +1,4 @@
-#### 유튜브 보고 따라하는 HTML, CSS, JS
+#### 유튜브 보고 따라하는 HTML, CSS
 
 - https://www.youtube.com/watch?v=X91jsJyZofw
 
